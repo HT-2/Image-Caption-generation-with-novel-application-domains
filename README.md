@@ -3,6 +3,8 @@ Generates caption for an image and extends image caption generation to two appli
 The project consists of two files:
 1) Backend- A google colab(.ipynb) file consisting of the entire back end source code for the project which is built using python. 
 2) Frontent- A google colab(.ipynb) file consisting of the entire front end source code for the project which is built using streamlit and local tunnel.
+
+
 Requirements of the project:
 numpy==1.19.5
 gtts==2.2.2
