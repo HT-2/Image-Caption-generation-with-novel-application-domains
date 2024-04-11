@@ -5,6 +5,7 @@ The project consists of two files:
 2) Frontent- A google colab(.ipynb) file consisting of the entire front end source code for the project which is built using streamlit and local tunnel.
 
 
+
 Requirements of the project:
 numpy==1.19.5
 gtts==2.2.2
